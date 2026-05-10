@@ -1,4 +1,4 @@
-# 多模态商品图文搜索与重排系统
+<img width="1434" height="727" alt="QQ_1778421207833" src="https://github.com/user-attachments/assets/5b2e3297-9ba8-421c-8c10-00d2214dd6e5" /># 多模态商品图文搜索与重排系统
 
 一个面向服饰商品场景的多模态检索与重排项目。系统支持文本搜图、以图搜图、候选召回、特征重排、训练式 reranker、离线评估和前端可视化对比，覆盖从原始商品数据到 Web 演示的完整检索链路。
 
@@ -14,13 +14,13 @@
 
 ## 前端页面展示
 搜索页面
-<img src="C:\Users\不灭星锚\Desktop\QQ_1778421186000.png"/>
+<img width="1866" height="923" alt="QQ_1778421186000" src="https://github.com/user-attachments/assets/588bb22e-b49d-4c1d-94d5-244954e60506" />
 搜索结果
-<img src="C:\Users\不灭星锚\Desktop\QQ_1778421207833.png"/>
+<img width="1434" height="727" alt="QQ_1778421207833" src="https://github.com/user-attachments/assets/41229dc2-099e-4970-a221-c21ca936728e" />
 评估页面
-<img src="C:\Users\不灭星锚\Desktop\QQ_1778421222837.png"/>
+<img width="1844" height="866" alt="QQ_1778421222837" src="https://github.com/user-attachments/assets/0bded666-c997-41cf-b09a-324a835fdf8b" />
 评估结果
-<img src="C:\Users\不灭星锚\Desktop\QQ_1778421235317.png"/>
+<img width="1731" height="673" alt="QQ_1778421235317" src="https://github.com/user-attachments/assets/bffaea1a-2e10-40ff-831b-36e2b20fed7c" />
 
 ## 系统流程
 
