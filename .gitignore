@@ -1,0 +1,59 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment
+.env
+
+# Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Temporary uploads
+uploads/tmp/**
+!uploads/tmp/
+!uploads/tmp/.gitkeep
+
+# Data artifacts
+data/raw/**
+!data/raw/
+!data/raw/.gitkeep
+!data/raw/README.md
+data/processed/**
+!data/processed/
+!data/processed/.gitkeep
+!data/processed/README.md
+data/embeddings/**
+!data/embeddings/
+!data/embeddings/.gitkeep
+!data/embeddings/README.md
+data/index/**
+!data/index/
+!data/index/.gitkeep
+!data/index/README.md
+
+# Models
+models/**
+!models/
+!models/.gitkeep
+!models/README.md
+
+# Outputs
+outputs/**
+!outputs/
+!outputs/.gitkeep
+!outputs/README.md
+
+# IDE, logs, and OS files
+.idea/
+.vscode/
+.codex_logs/
+.DS_Store
+Thumbs.db
